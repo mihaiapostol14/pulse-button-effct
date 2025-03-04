@@ -1,9 +1,9 @@
-# Animated Button with Ripple Effect
+# Pulse Button Effect
 
-This project demonstrates how to create an interactive button with an animated ripple effect using CSS. The button features a smooth hover effect, a glowing ring animation, and stylish gradient colors, making it an excellent choice for modern and interactive user interfaces.
+## Overview
+Pulse Button Effect is a CSS and HTML based project that showcases an interactive button with an animated ripple effect. The button is designed to be visually appealing with smooth hover effects, a glowing ring animation, and stylish gradient color transitions.
 
 ## Features
-
 1. **Ripple Animation**:
    - A dynamic ripple effect that expands and fades when the button is rendered.
    - The animation runs infinitely unless the button is hovered over or focused.
@@ -18,3 +18,22 @@ This project demonstrates how to create an interactive button with an animated r
 4. **Responsiveness**:
    - The button is styled with flexible dimensions and properties to adapt to various screen sizes and resolutions.
 
+## Project Structure
+(To be completed after listing all files in the repository)
+
+## Recent Development Activity
+(Unable to fetch recent commits due to missing path)
+
+## Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mihaiapostol14/pulse-button-effct.git
+   ```
+2. Open `index.html` in your browser to see the button in action.
+3. Customize the CSS as needed to fit your project requirements.
+
+## Contributions
+Contributions are welcome! Please fork the repository and submit pull requests.
+
+## License
+This project is licensed under the MIT License.
